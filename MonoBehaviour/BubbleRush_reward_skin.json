@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4728845959473380653
+  },
+  "m_Name": "BubbleRush_reward_skin",
+  "_blurredGame": {
+    "m_FileID": 0,
+    "m_PathID": -7373432282199736844
+  },
+  "_gameIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7167057191416203862
+  },
+  "_smallGameIcon": {
+    "m_FileID": 0,
+    "m_PathID": 7633758665502870250
+  },
+  "_rankImages": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6172439523876509871
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1843372829801340018
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4706443843896808499
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 488412795201688211
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3997060438363686119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -437388383807049417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7837669101368724277
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -765702958919960017
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6094189798381951559
+    }
+  ],
+  "_gameName": "Bubble Rush"
+}

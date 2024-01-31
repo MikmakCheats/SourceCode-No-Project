@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5268891208167219239
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7664831391443361429
+  },
+  "m_Name": "",
+  "_itemsAttachers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7668647576166318766
+    }
+  ],
+  "_slots": [
+    {
+      "MainSlot": "color",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "belt",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "chest",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "dress",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "earings",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "eyelids",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "glasses",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "gloves",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "hair",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "hat",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "jacket",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "lips",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "pants",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "shirt",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "shoes",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "bracelet",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    },
+    {
+      "MainSlot": "",
+      "ItemId": 0
+    }
+  ],
+  "_equipMeOnStart": 0
+}

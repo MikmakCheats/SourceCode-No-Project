@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 89
+  },
+  "m_Name": "Avatar_Sequence_SO",
+  "_animationSequenceDatas": [
+    {
+      "AnimationDatas": [
+        {
+          "_animationOptionA": "idle",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 2,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "register_looking_right",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "idle",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 2,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "register_looking_left",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "idle",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "move_3004",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "idle",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 2,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "register_looking_right",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "idle",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        },
+        {
+          "_animationOptionA": "move_3004",
+          "_animationOptionB": "",
+          "_animationOptionC": "",
+          "_animationOptionD": "",
+          "_times": 1,
+          "_randomAnimation": 0,
+          "_animationMix": 0.0
+        }
+      ]
+    }
+  ],
+  "_winnerAnimationSequenceData": {
+    "AnimationDatas": []
+  }
+}

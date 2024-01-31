@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7034078151151086669
+  },
+  "m_Name": "bubblerush_skin",
+  "_gameNameKey": "Bubbles",
+  "_gameIcon": {
+    "m_FileID": 0,
+    "m_PathID": -7167057191416203862
+  },
+  "_blurBG": {
+    "m_FileID": 0,
+    "m_PathID": -7373432282199736844
+  },
+  "_darkColor": {
+    "r": 0.0,
+    "g": 0.5638194,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_lightColor": {
+    "r": 0.0,
+    "g": 0.447058827,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_bgColor": {
+    "r": 0.06666667,
+    "g": 0.08235294,
+    "b": 0.2,
+    "a": 1.0
+  }
+}

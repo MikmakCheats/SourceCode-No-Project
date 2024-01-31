@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5952114788823410678
+  },
+  "m_Name": "Achievements",
+  "_actionButtonSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_icon": {
+    "m_FileID": 0,
+    "m_PathID": -5793857667854237202
+  },
+  "_floatingIcon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_iconContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

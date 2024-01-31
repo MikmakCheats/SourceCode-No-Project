@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2900452209396481079
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7664831391443361429
+  },
+  "m_Name": "",
+  "_itemsAttachers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1550504312960779485
+    }
+  ],
+  "_slots": [],
+  "_equipMeOnStart": 0
+}

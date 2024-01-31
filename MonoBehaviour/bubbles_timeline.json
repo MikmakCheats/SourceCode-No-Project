@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3370203308142749579
+  },
+  "m_Name": "bubbles_timeline",
+  "_gameColor": {
+    "r": 0.0,
+    "g": 0.8937979,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_rankRewards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7061235913753918831
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2633392783433474921
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2014161166186947134
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8640155050983130614
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4663650161853248268
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5381674606226953338
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8462294506889773115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8694638769536499326
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2280558519521851293
+    }
+  ],
+  "_coinsRewards": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2158183282767630467
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8175227557587673347
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8632730698690025417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4283549158867766639
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4356849699073664536
+    }
+  ],
+  "_rewardSkin": {
+    "m_FileID": 0,
+    "m_PathID": 4058875503270570099
+  }
+}
